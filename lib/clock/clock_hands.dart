@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:clock/hand_hour.dart';
-import 'package:clock/hand_minute.dart';
-import 'package:clock/hand_second.dart';
+import 'hand_hour.dart';
+import 'hand_minute.dart';
+import 'hand_second.dart';
 import 'package:flutter/material.dart';
 
 class ClockHands extends StatelessWidget {

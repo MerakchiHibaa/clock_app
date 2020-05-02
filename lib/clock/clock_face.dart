@@ -1,7 +1,7 @@
-import 'package:clock/clock_text.dart';
+import 'clock_text.dart';
 import 'package:flutter/material.dart';
-import 'package:clock/clock_dial_painter.dart';
-import 'package:clock/clock_hands.dart';
+import 'clock_dial_painter.dart';
+import 'clock_hands.dart';
 
 class ClockFace extends StatelessWidget {
   final DateTime dateTime;
